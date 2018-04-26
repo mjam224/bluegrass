@@ -9,4 +9,4 @@ Maps of Kentucky and the beautiful Bluegrass Region
   * [Version made with QGIS](#)
   * [Version made with MapBOX](#)
 
-![Image of GeoTIFF of Indian Fort Mountain](ifm/indian-fort-mtn.png)
+![Image of GeoTIFF of Indian Fort Mountain](indian-fort-mtn.png)
