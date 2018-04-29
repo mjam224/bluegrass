@@ -10,3 +10,6 @@ Maps of Kentucky and the beautiful Bluegrass Region
   * [Version made with MapBOX](ifmtn)
 
 ![Image of GeoTIFF of Indian Fort Mountain](indian-fort-mtn.png)
+  * picture of where to use the restroom
+
+![Image of parking and restrooms](images/restroooms&parkinglot.png)
