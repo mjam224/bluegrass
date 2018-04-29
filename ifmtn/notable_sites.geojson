@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "notable_sites",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "parking", "features": "this is where you can park" }, "geometry": { "type": "Point", "coordinates": [ -84.240869696455405, 37.554331127027133 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Restrooms", "features": "facilities for useing the bathroom" }, "geometry": { "type": "Point", "coordinates": [ -84.240494296768347, 37.554010527422584 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "walking_sticks", "features": "walking sticks are availible here" }, "geometry": { "type": "Point", "coordinates": [ -84.238538351617947, 37.555755287881333 ] } }
+]
+}
