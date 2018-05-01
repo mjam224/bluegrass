@@ -13,3 +13,5 @@ Maps of Kentucky and the beautiful Bluegrass Region
   * picture of where to use the restroom
 
 ![Image of parking and restrooms](images/restroooms&parkinglot.png)
+
+![]
